@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\bin\Debug\BitmClass5Student.exe.config
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\bin\Debug\BitmClass5Student.exe
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\bin\Debug\BitmClass5Student.pdb
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.Form1.resources
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.Properties.Resources.resources
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.exe
+C:\Users\User\source\repos\BitmClass5Student\BitmClass5Student\obj\Debug\BitmClass5Student.pdb
